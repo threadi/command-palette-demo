@@ -1,1 +1,1 @@
-Demo for Command Palette for this post: https://www.thomaszwirner.de/die-befehlspalette-fur-entwickler-erklart/
+Demo for Command Palette for [this post](https://www.thomaszwirner.de/die-befehlspalette-fur-entwickler-erklart/).
